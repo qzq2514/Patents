@@ -1,6 +1,6 @@
 # Sliding window for character segmentation
-model net:classfying an image char or not (net.png for details)
-pipline:Sliding window to segment characters(pipline.png for details)
+model net:classfying an image char or not (net.png for details)  
+pipline:  Sliding window to segment characters(pipline.png for details)
 
 ## training data:  
 |   char   | not char|
