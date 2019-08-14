@@ -7,7 +7,7 @@ On plate pictures of CA states of USA,the program can achiece accuarcy of 96.65%
 
 ## CNN models
 model net:  
-1.Landmark net :get coordinates of 4 plate corners(landmark.png for details)    
+1.Landmark net :get coordinates of 4 plate corners(landmark.png and [code](https://github.com/qzq2514/DNNCode/tree/master/textRecognition/DWCNN_CTCLoss_plateRec) for details)    
 2.Plate Recognition net:   
 recognize plate using CTC loss (CTC_rec.png and [code](https://github.com/qzq2514/Patents/tree/master/SecondPatent/train_landmark) for details)  
 
