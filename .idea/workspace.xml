@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6361376-df11-488c-a556-f7ee5204995b" name="Default Changelist" comment="" />
+    <list default="true" id="f6361376-df11-488c-a556-f7ee5204995b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/.idea/SecondPatent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/Rect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/changName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/get_text_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/keras2tensorflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/CTCRec/CTC_CA_NoRNN_BN_dropout-10000.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/plateLandmark/plateCornerDetCA90.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/plateLandmark/plateCornerDetCA90.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_200.caffemodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_200.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_300.caffemodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_300.prototxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/name_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/pics/CTC_rec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/pics/CTC_rec_DWiseConv_moudles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/pics/CTC_rec_norm_moudles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/pics/landmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/pics/pipline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/plateLandmark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/test_images/temp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/textLocate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/textRecognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/checkLandMark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/eval_landmark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/get_trans_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/models/plateCornerDetCA90.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/models/plateCornerDetCA90.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/nets/LprLocNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/nets/lpr_locNet.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondPatent/train_landmark/train_landmark_saveFull.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,14 +58,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Patents$main.coverage" NAME="main Coverage Results" MODIFIED="1562387343229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstPatent/test" />
+    <SUITE FILE_PATH="coverage/Patents$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1565745827147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SecondPatent" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstPatent/test/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="22">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -25,21 +74,92 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstPatent/train/train_epoch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecondPatent/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecondPatent/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="44">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SecondPatent/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="154">
+                <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecondPatent/plateLandmark.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FirstPatent/test/main.py" />
+        <option value="$PROJECT_DIR$/FirstPatent/train/train_epoch.py" />
+        <option value="$PROJECT_DIR$/SecondPatent/plateLandmark.py" />
+        <option value="$PROJECT_DIR$/SecondPatent/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SecondPatent/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="3" />
-    <option name="y" value="57" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="81" />
+    <option name="y" value="37" />
     <option name="width" value="1845" />
     <option name="height" value="1005" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -56,20 +176,7 @@
             <path>
               <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
               <item name="Patents" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstPatent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Patents" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstPatent" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Patents" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstPatent" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="testImgs" type="462c0819:PsiDirectoryNode" />
+              <item name="SecondPatent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
@@ -88,7 +195,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\WorkSpace\myGithub\Patents\SecondPatent\pics" />
+      <recent name="P:\WorkSpace\myGithub\Patents\SecondPatent" />
+      <recent name="P:\WorkSpace\myGithub\Patents\FirstPatent" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\WorkSpace\myGithub\Patents" />
       <recent name="P:\WorkSpace\myGithub\Patents\FirstPatent\test\testImgs" />
     </key>
   </component>
@@ -104,7 +217,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Patents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SecondPatent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SecondPatent/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Patents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +264,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -144,23 +280,25 @@
       <option name="presentableId" value="Default" />
       <updated>1562381826612</updated>
       <workItem from="1562381827931" duration="955000" />
-      <workItem from="1562387176363" duration="90000" />
+      <workItem from="1562387176363" duration="838000" />
+      <workItem from="1563438085562" duration="30000" />
+      <workItem from="1565745394834" duration="1862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1045000" />
+    <option name="totallyTimeSpent" value="3685000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="318" width="1476" height="804" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15726376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25557205" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2592068" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -174,7 +312,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.3293371" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3293371" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -184,11 +322,71 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FirstPatent/test/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="22">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstPatent/train/train_epoch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondPatent/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondPatent/plateLandmark.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondPatent/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstPatent/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" lean-forward="true" selection-start-line="4" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondPatent/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
