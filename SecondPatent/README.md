@@ -16,10 +16,13 @@ Plate recognition (pipline.png for details)
 ## training data:  
 |   Landmark net  | Plate Recognition net|
 |:------------:|:-------------------:|
-| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/FirstPaten/char_table.jpg)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/FirstPaten/not_table.jpg)        |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_org1.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_org1.png)        |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_org2.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_org2.png)        |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_org3.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_org3.png)        |
 
 
 ## visible result:  
 |   Landmark net  | Plate Recognition net|
 |:------------:|:-------------------:|
-
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_res1.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_res1.PNG)        |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_res2.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_res2.PNG)        |
