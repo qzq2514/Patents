@@ -25,5 +25,5 @@ Plate recognition (pipline.png for details)
 ## visible result:  
 |   Landmark net  | Plate Recognition net|
 |:------------:|:-------------------:|
-| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_res1.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_res1.PNG)        |
-| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_res2.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTCRec_res2.png)        |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_res1.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTC_rec_res1.PNG)        |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/landmark_res2.png)    |       ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/SecondPatent/CTC_rec_res1.png)        |
