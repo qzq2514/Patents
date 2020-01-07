@@ -14,11 +14,8 @@ Using [Plate corners detection](https://github.com/qzq2514/Patents/tree/master/P
 ## result:  
 
 
-
-|    d   |   d    |    
-|:------------:|:-------------------:|   
-|![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res1.PNG) |      ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res2.PNG) |
-|![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res3.PNG) |      ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res4.PNG) |
-|![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res5.PNG) |      ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res6.PNG) |
-
+|   result   | result | result|
+|:------------:|:-------------------:|:-------------------:|
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res1.PNG) |![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res2.PNG) |![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res3.PNG) |
+| ![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res4.PNG) |![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res5.PNG) |![](https://github.com/qzq2514/ImageForGithubMakdown/blob/master/Patents/ThirtdPatent/res6.PNG) |
 
