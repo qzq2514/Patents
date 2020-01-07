@@ -2,8 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6361376-df11-488c-a556-f7ee5204995b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/StackCharRec/eval_stackCharsRec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/freezing_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/get_filepath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/models/pb/CTC_num2_24500_frezee.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/models/pb/CTC_num2_40000_frezee_my.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_new2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_new3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_org.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_org_rnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/net/CTCRecognizer_rnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/AS_1174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/AV_1380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/AW_1570.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/AY_1748.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/BA_1971.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/CA_2177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/CE_2308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/HT_2418.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/testImages/MD_2502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackCharRec/train_CTCRec_openvino.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/net.png" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/net.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/pipline.png" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/pipline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/drawProp.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/drawProp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecModel_old1000.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecModel_old1000.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecModel_old400.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecModel_old400.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecmodelColor-500.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecmodelColor-500.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecmodelColor-500_1.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecmodelColor-500_1.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecmodelColor-500_2.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecmodelColor-500_2.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecmodelColor-500_3.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecmodelColor-500_3.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/model/nocharModel/noCharRecmodelColor_new7000.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/model/nocharModel/noCharRecmodelColor_new7000.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/noCharRec.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/noCharRec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/testImgs/common/[TAG-5JGX991]_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/testImgs/common/[TAG-5JGX991]_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/testImgs/common/[TAG-5JGX991]_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/testImgs/common/[TAG-5JGX991]_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/testImgs/common/[TAG-5JUT919].jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/testImgs/common/[TAG-5JUT919].jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/testImgs/common/[TAG-5K83446].jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/testImgs/common/[TAG-5K83446].jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/testImgs/special/demo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/testImgs/special/demo1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/test/testImgs/special/demo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/test/testImgs/special/demo2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/modelNochar/pb/noCharRecmodelColor-500.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/modelNochar/pb/noCharRecmodelColor-500.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/modelNochar/pb/noCharRecmodelColor-500_1.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/modelNochar/pb/noCharRecmodelColor-500_1.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/modelNochar/pb/noCharRecmodelColor-500_2.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/modelNochar/pb/noCharRecmodelColor-500_2.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/modelNochar/pb/noCharRecmodelColor-500_3.pb" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/modelNochar/pb/noCharRecmodelColor-500_3.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/net/modelRegular.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/net/modelRegular.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/net/modelRegularIInception.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/net/modelRegularIInception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/net/modelRegularSimple.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/net/modelRegularSimple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPatent/train/train_epoch.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharSeg_SlidingWindow/train/train_epoch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/.idea/SecondPatent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/.idea/SecondPatent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/Rect.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/Rect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/changName.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/changName.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/get_text_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/get_text_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/keras2tensorflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/keras2tensorflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/CTCRec/CTC_CA_NoRNN_BN_dropout-10000.pb" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/CTCRec/CTC_CA_NoRNN_BN_dropout-10000.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/plateLandmark/plateCornerDetCA90.h5" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/plateLandmark/plateCornerDetCA90.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/plateLandmark/plateCornerDetCA90.pb" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/plateLandmark/plateCornerDetCA90.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_200.caffemodel" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/textLoc/CGIM_loc_deploy_200.caffemodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_200.prototxt" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/textLoc/CGIM_loc_deploy_200.prototxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_300.caffemodel" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/textLoc/CGIM_loc_deploy_300.caffemodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/models/textLoc/CGIM_loc_deploy_300.prototxt" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/models/textLoc/CGIM_loc_deploy_300.prototxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/name_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/name_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/pics/CTC_rec.png" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/pics/CTC_rec.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/pics/CTC_rec_DWiseConv_moudles.png" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/pics/CTC_rec_DWiseConv_moudles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/pics/CTC_rec_norm_moudles.png" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/pics/CTC_rec_norm_moudles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/pics/landmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/pics/landmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/pics/pipline.png" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/pics/pipline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/plateLandmark.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/plateLandmark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/test_images/temp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/test_images/temp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/textLocate.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/textLocate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/textRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/textRecognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/checkLandMark.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/checkLandMark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/eval_landmark.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/eval_landmark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/get_trans_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/get_trans_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/models/plateCornerDetCA90.h5" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/models/plateCornerDetCA90.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/models/plateCornerDetCA90.pb" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/models/plateCornerDetCA90.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/nets/LprLocNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/nets/LprLocNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/nets/lpr_locNet.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/nets/lpr_locNet.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondPatent/train_landmark/train_landmark_saveFull.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/train_landmark_saveFull.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,59 +108,21 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Patents$main.coverage" NAME="main Coverage Results" MODIFIED="1562387343229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstPatent/test" />
-    <SUITE FILE_PATH="coverage/Patents$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1565745827147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SecondPatent" />
+    <SUITE FILE_PATH="coverage/Patents$eval_landmark.coverage" NAME="eval_landmark Coverage Results" MODIFIED="1578386212642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SecondPatent/train_landmark" />
+    <SUITE FILE_PATH="coverage/Patents$eval_freeze_openvino.coverage" NAME="eval_freeze_openvino Coverage Results" MODIFIED="1578386159832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StackCharRec" />
+    <SUITE FILE_PATH="coverage/Patents$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1578386277514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SecondPatent" />
+    <SUITE FILE_PATH="coverage/Patents$eval_stackCharsRec.coverage" NAME="eval_stackCharsRec Coverage Results" MODIFIED="1578386641894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StackCharRec" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstPatent/test/main.py">
+        <entry file="file://$PROJECT_DIR$/StackCharRec/eval_stackCharsRec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="132">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstPatent/train/train_epoch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SecondPatent/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SecondPatent/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SecondPatent/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="484">
-                <caret line="29" selection-start-line="29" selection-end-line="29" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -74,19 +131,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="3" column="110" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
+              <first_editor relative-caret-position="110">
+                <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SecondPatent/plateLandmark.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -102,17 +150,19 @@
         <option value="$PROJECT_DIR$/FirstPatent/test/main.py" />
         <option value="$PROJECT_DIR$/FirstPatent/train/train_epoch.py" />
         <option value="$PROJECT_DIR$/SecondPatent/plateLandmark.py" />
-        <option value="$PROJECT_DIR$/SecondPatent/main.py" />
         <option value="$PROJECT_DIR$/SecondPatent/README.md" />
+        <option value="$PROJECT_DIR$/StackCharRec/eval_freeze_openvino.py" />
+        <option value="$PROJECT_DIR$/SecondPatent/main.py" />
+        <option value="$PROJECT_DIR$/StackCharRec/eval_stackCharsRec.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="148" />
-    <option name="y" value="130" />
-    <option name="width" value="1588" />
-    <option name="height" value="1015" />
+    <option name="x" value="50" />
+    <option name="y" value="30" />
+    <option name="width" value="1760" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,6 +177,17 @@
             <path>
               <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
               <item name="Patents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Patents" type="462c0819:PsiDirectoryNode" />
+              <item name="StackCharRec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Patents" type="462c0819:PsiDirectoryNode" />
+              <item name="StackCharRec" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Patents" type="b2602c69:ProjectViewProjectNode" />
@@ -145,14 +206,17 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\WorkSpace\myGithub\Patents\StackCharRec\models\pb" />
+      <recent name="P:\WorkSpace\myGithub\Patents" />
+      <recent name="P:\WorkSpace\myGithub\Patents\FirstPatent\test\testImgs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\WorkSpace\myGithub\Patents\StackCharRec\models" />
+      <recent name="P:\WorkSpace\myGithub\Patents\StackCharRec" />
       <recent name="P:\WorkSpace\myGithub\Patents\SecondPatent\pics" />
       <recent name="P:\WorkSpace\myGithub\Patents\SecondPatent" />
       <recent name="P:\WorkSpace\myGithub\Patents\FirstPatent" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="P:\WorkSpace\myGithub\Patents" />
-      <recent name="P:\WorkSpace\myGithub\Patents\FirstPatent\test\testImgs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -167,7 +231,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.eval_stackCharsRec">
+    <configuration name="eval_freeze_openvino" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Patents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StackCharRec" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="P:\WorkSpace\myGithub\Patents\StackCharRec\eval_stackCharsRec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_landmark" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Patents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SecondPatent/train_landmark" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SecondPatent/train_landmark/eval_landmark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_stackCharsRec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Patents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StackCharRec" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StackCharRec/eval_stackCharsRec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Patents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +344,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.eval_stackCharsRec" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.eval_landmark" />
+        <item itemvalue="Python.eval_freeze_openvino" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -236,7 +369,18 @@
       <workItem from="1565748564215" duration="1762000" />
       <workItem from="1565751584198" duration="106000" />
       <workItem from="1565787755845" duration="10000" />
-      <workItem from="1566350601447" duration="202000" />
+      <workItem from="1566350601447" duration="285000" />
+      <workItem from="1566351314414" duration="7000" />
+      <workItem from="1566464431131" duration="16000" />
+      <workItem from="1566697113159" duration="28000" />
+      <workItem from="1566808906619" duration="426000" />
+      <workItem from="1566976080475" duration="70000" />
+      <workItem from="1567253171283" duration="685000" />
+      <workItem from="1567255776020" duration="678000" />
+      <workItem from="1573474989625" duration="1700000" />
+      <workItem from="1574336597433" duration="5000" />
+      <workItem from="1578375604743" duration="625000" />
+      <workItem from="1578385488045" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="Second Patent">
       <created>1565747284700</created>
@@ -294,22 +438,29 @@
       <option name="project" value="LOCAL" />
       <updated>1565751643025</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update readme for Second Patent">
+      <created>1566350861730</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566350861730</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7005000" />
+    <option name="totallyTimeSpent" value="12615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="94" width="1270" height="812" extended-state="0" />
+    <frame x="40" y="24" width="1408" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16089109" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18592593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28723404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,10 +485,11 @@
     <MESSAGE value="Second Patent" />
     <MESSAGE value="samples of training data and visible result of Second Patent" />
     <MESSAGE value="update for Second Patent" />
-    <option name="LAST_COMMIT_MESSAGE" value="update for Second Patent" />
+    <MESSAGE value="update readme for Second Patent" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme for Second Patent" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstPatent/README.md">
+    <entry file="file://$PROJECT_DIR$/CharSeg_SlidingWindow/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="176">
@@ -347,9 +499,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPatent/test/main.py">
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="638">
+            <caret line="29" selection-start-line="29" selection-end-line="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharSeg_SlidingWindow/test/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="66">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -357,9 +522,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPatent/train/train_epoch.py">
+    <entry file="file://$PROJECT_DIR$/CharSeg_SlidingWindow/train/train_epoch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="198">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -367,41 +532,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SecondPatent/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SecondPatent/main.py">
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/changName.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="66">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SecondPatent/plateLandmark.py">
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/plateLandmark.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
           <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SecondPatent/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="484">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/get_text_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="110" column="42" selection-start-line="110" selection-start-column="42" selection-end-line="110" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StackCharRec/net/CTCRecognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/train_landmark/eval_landmark.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlateLandmark_CTCRec/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StackCharRec/eval_stackCharsRec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="110" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
