@@ -3,4 +3,4 @@
 
 [Plate corners detection and recognition with CTC](https://github.com/qzq2514/Patents/tree/master/PlateLandmark_CTCRec)
 
-[Stack character recognition with CTC ](https://github.com/qzq2514/Patents/tree/master/PlateLandmark_CTCRec)
+[Stack character recognition with CTC ](https://github.com/qzq2514/Patents/tree/master/StackCharRec)
